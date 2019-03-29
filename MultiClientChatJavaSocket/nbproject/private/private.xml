@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/tj/MultiClientChatJavaSocket2/src/com/dqt/client/Client.java</file>
+            <file>file:/home/tj/MultiClientChatJavaSocket2/src/com/dqt/dao/MessageDAO.java</file>
+            <file>file:/home/tj/MultiClientChatJavaSocket2/src/com/dqt/core/Message.java</file>
+            <file>file:/home/tj/MultiClientChatJavaSocket2/src/com/dqt/core/User.java</file>
+            <file>file:/home/tj/MultiClientChatJavaSocket2/src/com/dqt/server/Server.java</file>
+            <file>file:/home/tj/MultiClientChatJavaSocket2/src/com/dqt/dao/UserDAO.java</file>
+            <file>file:/home/tj/MultiClientChatJavaSocket2/src/com/dqt/server/ThreadSocket.java</file>
+            <file>file:/home/tj/MultiClientChatJavaSocket2/src/com/dqt/client/TabChat.java</file>
+            <file>file:/home/tj/MultiClientChatJavaSocket2/src/com/dqt/dao/DBSingletonConnection.java</file>
+            <file>file:/home/tj/MultiClientChatJavaSocket2/src/com/dqt/client/SocketClient.java</file>
+            <file>file:/home/tj/MultiClientChatJavaSocket2/src/com/dqt/core/Data.java</file>
+            <file>file:/home/tj/MultiClientChatJavaSocket2/src/com/dqt/client/Send.java</file>
+        </group>
+    </open-files>
+</project-private>
